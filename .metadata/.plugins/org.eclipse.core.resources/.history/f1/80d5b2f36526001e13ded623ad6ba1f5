@@ -1,0 +1,9 @@
+
+public class testeRepetiçao {
+	public static void main(String[] args) {
+		while numero <= 10;{
+			numero + 1
+			
+		}
+	}
+}
